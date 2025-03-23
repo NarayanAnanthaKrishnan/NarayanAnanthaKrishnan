@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Hi there, I'm Narayan Anantha Krishnan! 👋</h1>
+<h1 align="center" style="color:#00FFFF;">🌙 Hi there, I'm Narayan Anantha Krishnan! 👋</h1>
 
 <p align="center">
 💻 <b>Software Developer</b> | ☁️ <b>Cloud Enthusiast</b> | 📊 <b>Data Analyst</b><br>
@@ -18,29 +18,29 @@
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)  
-![C/C++](https://img.shields.io/badge/-C/C++-000?style=for-the-badge&logo=cplusplus&logoColor=blue)  
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=yellow)  
-![Haskell](https://img.shields.io/badge/-Haskell-000?style=for-the-badge&logo=haskell&logoColor=purple)  
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=blue)  
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=orange)  
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=FFD700)  
+![C/C++](https://img.shields.io/badge/-C/C++-000?style=for-the-badge&logo=cplusplus&logoColor=00FFFF)  
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FFD700)  
+![Haskell](https://img.shields.io/badge/-Haskell-000?style=for-the-badge&logo=haskell&logoColor=#FF00FF)  
+![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=FF4500)  
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=FF4500)  
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=00FFFF)  
 
 ### **Libraries & Frameworks**  
-![React.js](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=cyan)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=green)  
-![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=green)  
-![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=cyan)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=purple)  
+![React.js](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=00FFFF)  
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=32CD32)  
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django&logoColor=32CD32)  
+![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=FFFFFF)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=00FFFF)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=#FF00FF)  
 
 ### **Tools & Platforms**  
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws&logoColor=orange)  
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=blue)  
-![PowerBI](https://img.shields.io/badge/-PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=yellow)  
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=red)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=green)  
-![Tableau](https://img.shields.io/badge/-Tableau-000?style=for-the-badge&logo=tableau&logoColor=orange)  
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws&logoColor=FF8C00)  
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=00BFFF)  
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=FFD700)  
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git&logoColor=FF4500)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=32CD32)  
+![Tableau](https://img.shields.io/badge/-Tableau-000?style=for-the-badge&logo=tableau&logoColor=FF8C00)  
 
 ---
 
@@ -62,9 +62,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narayanananthakrishnan&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=narayanananthakrishnan&show_icons=true&theme=highcontrast" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayanananthakrishnan&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayanananthakrishnan&theme=highcontrast" alt="GitHub Streak">
 </p>
 
 ---
