@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 Software Developer | ☁️ Cloud Enthusiast | 📊 Data Analyst  
-🔍 Passionate about AI, Web Development, and System Programming  
+🔍 Passionate about AI, Web Development
 </p>
 
 ---
