@@ -118,24 +118,12 @@ Civic platform serving **5,000+ daily users** across desktop and mobile.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NarayanAnanthaKrishnan&show_icons=true&theme=highcontrast" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarayanAnanthaKrishnan&theme=highcontrast" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarayanAnanthaKrishnan&layout=compact&theme=highcontrast" alt="Top Languages">
-</p>
-
----
 
 ## 📫 Let's Connect
 
 🔗 **LinkedIn:** [linkedin.com/in/narayan-anantha-krishnan](https://linkedin.com/in/narayan-anantha-krishnan)  
 📧 **Email:** [narayanananthakrishnann@gmail.com](mailto:narayanananthakrishnann@gmail.com)  
-🌍 **Portfolio:** *Coming soon*
-
+🌍 **Portfolio:**[narayan-ak.com](https://narayan-ak.com/)
 ---
 
 <p align="center">
