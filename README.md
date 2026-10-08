@@ -9,8 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 **M.S. in Computer Science** @ Syracuse University (May 2026) — GPA 3.78  
-🔬 **Graduate Research Assistant** under Prof. Senanayake Kumarawadu  
+🎓 **M.S. in Computer Science** @ Syracuse University (May 2026) — GPA 3.78   
 📝 **2 peer-reviewed papers** accepted at **FLAIRS-39 (2026)** — agentic RAG & edge LLM deployment  
 🏆 **Judges' Favorite Award** @ ECS Research Day Hackathon (2025) | **Head of CSI** (25+ member team)  
 🏐 Intramural volleyball champion @ Syracuse | Former state-level aerobic gymnast  
